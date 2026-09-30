@@ -1,6 +1,6 @@
 <!-- Animated banner (capsule-render). Change the text in "text=" and colors in "color=" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20[Guillermo]&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing text (readme-typing-svg). Separate lines with ; -->
@@ -19,7 +19,7 @@
 - 🔭 Currently studying **distributed systems** and **software deployment**
 - 📚 Learning **Rust** and **Apache Cassandra**
 - 🐧 I use Linux daily and love customizing my setup
-- ⚡ Fun fact: [something about you]
+- ⚡ Fun fact: I used to play chess and love Narita Brian. 
 
 ---
 
