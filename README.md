@@ -1,6 +1,6 @@
 <!-- Animated banner (capsule-render). Change the text in "text=" and colors in "color=" -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20[Guillermo]&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20Maple&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- Typing text (readme-typing-svg). Separate lines with ; -->
@@ -44,15 +44,13 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured project
 
-### [Project name](https://github.com/Maple-M136279841/REPO)
-Short description: what it does, what you built it with, and what you learned.
+### [Sonimbus](https://github.com/Maple-M136279841/sonimbus)
+Short description: what Sonimbus does, the tech stack behind it, and what you're learning while building it.
 
-<!-- Repo card (only works with PUBLIC repos): -->
-<!-- [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Maple-M136279841&repo=REPO&theme=tokyonight&hide_border=true)](https://github.com/Maple-M136279841/REPO) -->
-
----
+<!-- Repo card (only works once the repo is PUBLIC): -->
+<!-- [![Sonimbus](https://github-readme-stats.vercel.app/api/pin/?username=Maple-M136279841&repo=sonimbus&theme=tokyonight&hide_border=true)](https://github.com/Maple-M136279841/sonimbus) -->
 
 ## 📊 GitHub stats
 
@@ -68,7 +66,7 @@ Short description: what it does, what you built it with, and what you learned.
 
 ## 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_uvclasesguillermo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Maple--M136279841-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maple-M136279841)
 
 <p align="center">
