@@ -14,7 +14,7 @@
 
 ---
 
-## 🙋 About me
+##  About me
 
 - 🔭 Currently studying **distributed systems** and **software deployment**
 - 📚 Learning **Rust** and **Apache Cassandra**
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-## 🚀 Featured project
+##  Featured project
 
 ### [Sonimbus 💬](https://github.com/tuzc0/team-collaboration-platform)
 Discord-inspired team communication platform with desktop and mobile clients, real-time messaging and voice meetings. Built with **NestJS**, **Flutter**, and a dual-database design: **Apache Cassandra** for high-volume message data and **PostgreSQL** for users, groups, and permissions. AI features (translation, transcription, and summaries) are planned for the next phase. Developed as a team project at Universidad Veracruzana.
