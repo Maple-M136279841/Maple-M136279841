@@ -60,10 +60,9 @@ Discord-inspired team communication platform with desktop and mobile clients, re
 </p>
 
 ---
-
 ## 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=uvclasesguillermo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-uvclasesguillermo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=uvclasesguillermo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Maple--M136279841-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maple-M136279841)
 
 <p align="center">
