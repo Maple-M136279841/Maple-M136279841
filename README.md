@@ -46,11 +46,8 @@
 
 ## 🚀 Featured project
 
-### [Sonimbus](https://github.com/Maple-M136279841/sonimbus)
-Short description: what Sonimbus does, the tech stack behind it, and what you're learning while building it.
-
-<!-- Repo card (only works once the repo is PUBLIC): -->
-<!-- [![Sonimbus](https://github-readme-stats.vercel.app/api/pin/?username=Maple-M136279841&repo=sonimbus&theme=tokyonight&hide_border=true)](https://github.com/Maple-M136279841/sonimbus) -->
+### [Sonimbus 💬](https://github.com/tuzc0/team-collaboration-platform)
+Discord-inspired team communication platform with desktop and mobile clients, real-time messaging and voice meetings. Built with **NestJS**, **Flutter**, and a dual-database design: **Apache Cassandra** for high-volume message data and **PostgreSQL** for users, groups, and permissions. AI features (translation, transcription, and summaries) are planned for the next phase. Developed as a team project at Universidad Veracruzana.
 
 ## 📊 GitHub stats
 
@@ -66,7 +63,7 @@ Short description: what Sonimbus does, the tech stack behind it, and what you're
 
 ## 📫 Get in touch
 
-[![Email](https://img.shields.io/badge/Email-your_email@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_uvclasesguillermo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uvclasesguillermo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Maple--M136279841-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maple-M136279841)
 
 <p align="center">
